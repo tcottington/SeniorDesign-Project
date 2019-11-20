@@ -1,0 +1,26 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2018.4.9f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2018.4.9f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=12270 outsize=1689 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=64076 outsize=12478 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4482 outsize=1835 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=27408 outsize=1574 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=27408 outsize=1354 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=27408 outsize=1450 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=27408 outsize=2271 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20360 outsize=944 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20360 outsize=1162 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20360 outsize=1331 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20360 outsize=1281 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=24152 outsize=6174 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1

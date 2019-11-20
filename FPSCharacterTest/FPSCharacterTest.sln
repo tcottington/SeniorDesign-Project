@@ -3,6 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 16
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{611AADA6-5CA9-EBC5-C4BF-DEBB0304FECE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacBLAS", "MacBLAS.csproj", "{F6D47B53-3E1C-03E4-3FB4-649872F898BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSBLAS", "iOSBLAS.csproj", "{F2CFBBFC-0E16-D08E-46B8-F05AF146CB5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{F39487DC-872D-4854-4FC6-793E1A15A54D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barracuda-editor", "Barracuda-editor.csproj", "{0798E7AD-27EB-EC60-E9CE-8817F19B55FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +21,22 @@ Global
 		{611AADA6-5CA9-EBC5-C4BF-DEBB0304FECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{611AADA6-5CA9-EBC5-C4BF-DEBB0304FECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{611AADA6-5CA9-EBC5-C4BF-DEBB0304FECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D47B53-3E1C-03E4-3FB4-649872F898BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D47B53-3E1C-03E4-3FB4-649872F898BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D47B53-3E1C-03E4-3FB4-649872F898BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D47B53-3E1C-03E4-3FB4-649872F898BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CFBBFC-0E16-D08E-46B8-F05AF146CB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CFBBFC-0E16-D08E-46B8-F05AF146CB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CFBBFC-0E16-D08E-46B8-F05AF146CB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CFBBFC-0E16-D08E-46B8-F05AF146CB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39487DC-872D-4854-4FC6-793E1A15A54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39487DC-872D-4854-4FC6-793E1A15A54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39487DC-872D-4854-4FC6-793E1A15A54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39487DC-872D-4854-4FC6-793E1A15A54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0798E7AD-27EB-EC60-E9CE-8817F19B55FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0798E7AD-27EB-EC60-E9CE-8817F19B55FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0798E7AD-27EB-EC60-E9CE-8817F19B55FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0798E7AD-27EB-EC60-E9CE-8817F19B55FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

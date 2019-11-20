@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class playerMovement : MonoBehaviour
-{ public Transform groundCheck;
+{
+    public Transform groundCheck;
     public float groundDistance = 0.4f;
     public CharacterController controller;
     public float speed = 12f;
@@ -15,6 +16,7 @@ public class playerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         isGrounded = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
         if(isGrounded && velocity.y <0)
         {
@@ -32,3 +34,4 @@ public class playerMovement : MonoBehaviour
         controller.Move(velocity * Time.deltaTime);
     }
 }
+    

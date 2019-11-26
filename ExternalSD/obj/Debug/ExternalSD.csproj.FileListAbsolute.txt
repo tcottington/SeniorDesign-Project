@@ -1,0 +1,9 @@
+C:\Users\Tyler\source\repos\ExternalSD\bin\Debug\ExternalSD.exe.config
+C:\Users\Tyler\source\repos\ExternalSD\bin\Debug\ExternalSD.exe
+C:\Users\Tyler\source\repos\ExternalSD\bin\Debug\ExternalSD.pdb
+C:\Users\Tyler\source\repos\ExternalSD\obj\Debug\ExternalSD.csprojAssemblyReference.cache
+C:\Users\Tyler\source\repos\ExternalSD\obj\Debug\ExternalSD.Form1.resources
+C:\Users\Tyler\source\repos\ExternalSD\obj\Debug\ExternalSD.Properties.Resources.resources
+C:\Users\Tyler\source\repos\ExternalSD\obj\Debug\ExternalSD.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\ExternalSD\obj\Debug\ExternalSD.exe
+C:\Users\Tyler\source\repos\ExternalSD\obj\Debug\ExternalSD.pdb
